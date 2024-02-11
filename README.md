@@ -62,7 +62,7 @@ The Streamlit app will be accessible in your browser.
 
 ![Application](spam.png)
 
-![Application](notspam.png)
+![Application](not spam.png)
 
 # Acknowledgments
 
